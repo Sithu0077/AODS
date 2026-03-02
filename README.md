@@ -98,8 +98,12 @@ Data Leakage Prevention
 Cross-Validation Techniques
 
 ▶️ How to Run
+
 pip install scikit-learn numpy
+
 python your_script_name.py
+
+
 📈 Future Improvements
 
 Hyperparameter tuning using GridSearchCV
